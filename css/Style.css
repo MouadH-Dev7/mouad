@@ -14,8 +14,15 @@ body {
     text-align: center;
 }
 
-.li-menu {
+.li-menu-cv {
     float: right;
+    background-color: rgb(35, 95, 138);
+    margin-left: 10px;
+}
+
+.li-menu-projct {
+    float: right;
+    background-color: rgb(35, 95, 138);
 }
 
 .titele {
@@ -32,7 +39,11 @@ body {
     padding: 17px;
 }
 
-.li-menu a:hover {
+.li-menu-cv a:hover {
+    background-color: #4583cadc;
+}
+
+.li-menu-projct a:hover {
     background-color: #4583cadc;
 }
 
